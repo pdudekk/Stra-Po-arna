@@ -1,1 +1,3 @@
-# Stra-Po-arna
+# Straż Pożarna
+
+Rozwiązanie zadania Straż Pożarna.
