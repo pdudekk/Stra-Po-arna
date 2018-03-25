@@ -20,7 +20,7 @@ index.html :
 ```
 Następnie otworzyć plik w przeglądarce internetowej i wybrać plik z rozszerzeniem .json . Wygenerowany zostanie graf połączeń miast zapisanych w pliku .json oraz legenda oznaczeń na grafie.
 
-###Wykorzystane technologie
+##Wykorzystane technologie
 
 * JavaScript
 * Biblioteka Vis.js (http://visjs.org/)
