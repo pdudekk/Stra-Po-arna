@@ -22,5 +22,5 @@ Następnie otworzyć plik w przeglądarce internetowej i wybrać plik z rozszerz
 
 ###Wykorzystane technologie
 
--JavaScript
--Biblioteka Vis.js (http://visjs.org/)
+1.JavaScript
+2.Biblioteka Vis.js (http://visjs.org/)
